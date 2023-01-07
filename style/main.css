@@ -3,14 +3,14 @@
     padding: 0%;
     font-family: 'Roboto', sans-serif;
 }
-body{
+/* body{
     background-color: black;
-}
-
+} */
+/*style css fist heading */
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(../images/banner2.png);
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(../images/banner/banner3.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -48,11 +48,8 @@ body{
     text-align: right;
     position: right;
 }
+/* btn color */
 
-/* .paragraph-first{
-    width: 200%;
-    color: lightgoldenrodyellow;
-} */
 .btn-primary {
     color: #FFFFFF;
     font-weight: 700;
@@ -88,30 +85,6 @@ body{
 }
 
 
-
-
-
-
-/* 
-.style-images{
-    width: 45%;
-    height: 80%;
-    position: absolute;
-    bottom: 0;
-    right: 100px;
-
-}
-.images img{
-    height: 100%;
-    position: absolute;
-    left: 50px;
-    bottom: 0;
-    transform: translateX(-50%);
-    transition: bottom 1s,left 1s;
-} */
-
-
-
 .paragraph-first-pra h1{
     font-size: 62px;
     margin: 10px 0 40px;
@@ -131,7 +104,7 @@ body{
     position: relative;
    
 }
-
+/* future plan style plan head class */
 .plan-head{
     text-align: center;
     color: skyblue;
@@ -144,25 +117,6 @@ body{
 
 }
 
-#style-images{
-    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%) ,url(../images/gradient2.png);
-    position: absolute;
-    width: 1140px;
-    height: 200px;
-    left: 230px;
-   top: 2216px; 
-  
-}
-
-#style-images h1{
-    margin: 0% auto;
-    height: 50%;
-    font-size: 200%;
-    color: skyblue;
-    text-align: center;
-    bottom: auto;
-
-}
 #header-first{
     min-height: 100vh;
     width: 100%;
@@ -172,18 +126,19 @@ body{
     position: relative;
 }
 #text-heading h1 b{
-    ont-size: 62px;
+    font-size: 62px;
     text-align: right;
     position: relative;
     color: yellow;
     font-size: 400%;
 }
-
+/* input field */
 input{
     height: 64px;
 
 }
-
+/* last sentence */
 #last-sentence{
     text-align: center;
 }
+
