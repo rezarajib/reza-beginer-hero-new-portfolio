@@ -85,11 +85,13 @@
 }
 
 #style-images{
-    background: url(../images/gradient3.png);
-    font-size: 50px;
-    margin: auto;
-    padding: 10% 20%;
-    text-align: center;
+    
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2216.3px;
+    
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
 
 }
 
