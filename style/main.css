@@ -84,6 +84,15 @@
 
 }
 
+#style-images{
+    background: url(../images/gradient3.png);
+    font-size: 50px;
+    margin: auto;
+    padding: 10% 20%;
+    text-align: center;
+
+}
+
 
 .paragraph-first-pra h1{
     font-size: 62px;
