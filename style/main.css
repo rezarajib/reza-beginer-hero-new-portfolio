@@ -84,8 +84,8 @@
 
 }
 
-#style-images{
-    
+#style-images {
+    text-align:right;
     width: 1140px;
     height: 300px;
     left: 230px;
@@ -95,6 +95,29 @@
 
 }
 
+#style-images h1{
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2281.26px;
+    font-weight: 700;
+   font-size: 40px;
+   color: #FFFFFF;
+}
+
+#btn-primary-btn{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    left: 500px;
+    font-size: 40px;
+    color: #F15B22;
+    font-weight: 100;
+    
+    
+    
+}
 
 .paragraph-first-pra h1{
     font-size: 62px;
